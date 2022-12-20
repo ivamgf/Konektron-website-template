@@ -6,10 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Startup
 
 Run `ng new app-name --style=scss --routing` to generate application. 
+
 Run `cd app-name` to change directory.
+
 Run `ng g c pages/home` to generate HomeComponent.
+
 Run `ng g c pages/about` to generate AboutComponent.
+
 Run `ng g c pages/contacts` to generate ContactsComponent.
+
 Run `ng serve --open` for a dev server with application running in browser.
 
 ## Development server
