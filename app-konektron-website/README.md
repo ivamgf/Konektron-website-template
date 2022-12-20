@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Startup
 
-Run `ng new app-name --style=scss --routing` to generate application. 
+Run `ng new app-name --style=scss --routing` to generate application.
 Run `cd app-name` to change directory.
 Run `ng g c pages/home` to generate HomeComponent.
 Run `ng g c pages/about` to generate AboutComponent.
